@@ -1,0 +1,10 @@
+h1,h2,h3{
+    text-align: center;
+    color: floralwhite;
+    font-family: cursive;
+}
+
+body{
+    background-image: linear-gradient(to right,#20ACCF, #CE6FB9);
+    text-align: center;
+}
